@@ -1,2 +1,0 @@
-(this.webpackJsonppedro=this.webpackJsonppedro||[]).push([[0],{11:function(n,e,t){"use strict";t.r(e);t(1);var c=t(3),o=t.n(c),r=(t(8),t(9),t(0));var d=function(){return Object(r.jsx)("div",{children:Object(r.jsx)("h1",{children:"pedro ndong ondo"})})};o.a.render(Object(r.jsx)("div",{children:Object(r.jsx)(d,{})}),document.getElementById("root"))},8:function(n,e,t){},9:function(n,e,t){}},[[11,1,2]]]);
-//# sourceMappingURL=main.e01cd4fd.chunk.js.map
